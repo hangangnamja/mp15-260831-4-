@@ -1,0 +1,4 @@
+repository "TeamGallery/TeamGallery@14569351199979@cloud"
+  path "/"
+    br "/main"
+    co "/main"
